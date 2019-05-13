@@ -1,2 +1,0 @@
-int setup();
-void control();
